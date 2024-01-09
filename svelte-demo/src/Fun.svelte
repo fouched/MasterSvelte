@@ -5,4 +5,4 @@
 	}, 3000)
 </script>
 
-<h2 style="font-size: {fontSize}px;">You rock!!</h2>
+<h2 style="font-size: {fontSize}px;">You rock and roll!!</h2>
